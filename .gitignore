@@ -2,11 +2,17 @@
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
 
+### Pokemon Showdown server dir ###
+Pokemon-Showdown/
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
 
 # C extensions
 *.so
